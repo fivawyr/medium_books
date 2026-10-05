@@ -7,4 +7,5 @@
 > a card deck with 52 cards, to drawn an ace is: $ number of aces / number of cards = 4 / 52 = 0.077 = 7.7% $ the Probability to drawn a diamond is $ 13 / 52 = 0.25 = 25% $ 
 - to calculate the Probability of multiple events, just multiple the individual Probability each time: $ (1/2) * (1/2) * (1/2) = 1/8 = 0.125 $ 
 - if we look at examples where we want to keep the random values whithin a mean (**bell curve**), we need to use **Distributions** (gaussian Distributions) 
+- in java we can call `p.randomGaussian(x = mean, y = standard deviation)` to call the random function within the bell curve
 - 
